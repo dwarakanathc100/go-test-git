@@ -9,5 +9,6 @@ func main() {
 	print("Hello, World 5!")
 	print("Hello, World 6!")
 	print("Hello, World 7!")
+	print("Hello, World 8!")
 
 }

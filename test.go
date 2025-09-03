@@ -7,5 +7,5 @@ func main() {
 	print("Hello, World 4!")
 	print("Hello, World 4!")
 	print("Hello, World 5!")
-
+	print("Hello, World 6!")
 }
